@@ -29,3 +29,10 @@
 
 *   clear           : Used to clear the screen.
 
+*   pwd             : print working directory
+
+*   ls              : list the contents of your current working directory
+
+*   cd              : change directory
+
+*   cd ..           : to go to the previous directory
