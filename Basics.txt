@@ -17,3 +17,9 @@
 *   ctrl + X        : Used to save.
                     
                     To run the script, type bash <script_name.sh>
+
+*   sleep           : Sleep is a very versatile command with a very simple syntax. It is as easy as typing sleep N . This will pause your script for N seconds, with N being either a positive integer or a floating point number. 
+
+*   ls -l           : summarizes the most important information about the file on a single line.
+
+*   chmod           : is used to change the access permissions of files and directories.
