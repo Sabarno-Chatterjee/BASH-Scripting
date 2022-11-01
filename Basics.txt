@@ -1,1 +1,12 @@
 *   which $SHELL : Prints the name of the shell which we are using. 
+
+*   echo         : The echo command is used to display a line of text that is passed in as an argument.   
+                    
+                    echo hello_world 
+
+*   nano          : GNU nano is an easy to use command line text editor for Unix and Linux operating systems.
+
+                    nano himom.sh   
+
+*   $!            : shebang is used to tell the kernel which interpreter should be used to run the commands present in the file.
+                     
