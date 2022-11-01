@@ -23,3 +23,9 @@
 *   ls -l           : summarizes the most important information about the file on a single line.
 
 *   chmod           : is used to change the access permissions of files and directories.
+                    
+                     For eg: chmod +x <filename.sh> {This will change the read & write only permission of a file to read, write and executable}
+
+
+*   clear           : Used to clear the screen.
+
