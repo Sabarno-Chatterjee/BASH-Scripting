@@ -12,7 +12,7 @@
 
 *   #!            : shebang is used to tell the kernel which interpreter should be used to run the commands present in the file.
 
-*   #! bin/bash    : when used in scripts is used to instruct the operating system to use bash as a command interpreter.
+*   #!/bin/bash    : when used in scripts is used to instruct the operating system to use bash as a command interpreter.
 
 *   ctrl + X        : Used to save.
                     
@@ -36,3 +36,4 @@
 *   cd              : change directory
 
 *   cd ..           : to go to the previous directory
+
