@@ -1,0 +1,7 @@
+*How to initiate a varuable.
+
+    variable_name="Ben" 
+
+*How to call a variable"
+
+    $variable_name
