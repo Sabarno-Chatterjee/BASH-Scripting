@@ -47,3 +47,37 @@
 
 *   rm              : stands for remove.
 
+*   ctrl + c        : stops the command being run on BASH.
+
+* man <command_name>: to get help with a particular command, it launches the manual for it.
+
+*<command_name> --help : to get help with the particular command, launches a brief version. 
+
+* appropos          : appropos and type key words related to what you want to do. It will display relatable commands.
+
+*   ps              : 
+
+*   id              :
+
+*   hostname        :
+
+*   uname           :
+
+*   ifconfig        :
+
+*   ip              :
+
+*   netstat         :
+
+*   ss              :
+
+*   who             : 
+
+*   env             :
+
+*   lsblk           :
+
+*   lsusb           : 
+
+
+
