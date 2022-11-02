@@ -5,3 +5,25 @@
 *How to call a variable"
 
     $variable_name
+
+*Input:
+
+    echo "What is your name?"
+
+    read name
+
+    {What this does is, it asks the user for the input and then creates a variable; name, to which it allocates the value entered by the user.}
+
+* Positional parameter (ARGUMENT)
+
+    e.g:
+
+    Code:
+    name=$1
+    occupation=$2
+
+    echo "Good morning $name, you are $occupation"
+
+    Run:
+    ./<script_name> argument_1(name) argument_2(occupation)
+
