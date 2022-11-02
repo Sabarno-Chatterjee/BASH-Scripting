@@ -1,0 +1,23 @@
+*   ps              :    ps displays information about a selection of the active processes.
+
+*   id              :   Print user and group information for each specified USER, or (when USER omitted) for the current user.
+
+*   hostname        :   show or set the system's host name
+
+*   uname           :   print system information
+
+*   ifconfig        :   
+
+*   ip              :   ip - show / manipulate routing, network devices, interfaces and tunnels
+
+*   netstat         :   
+
+*   ss              :   ss is used to dump socket statistics. It allows showing information similar to netstat.  It can display more TCP and state information than other tools.
+
+*   who             :   Print information about users who are currently logged in.
+
+*   env             :    env - run a program in a modified environment
+
+*   lsblk           :   lists information about all available or the specified block devices.
+
+*   lsusb           :   is  a utility for displaying information about USB buses in the system and the devices connected to them. 
