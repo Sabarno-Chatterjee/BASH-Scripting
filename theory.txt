@@ -1,0 +1,14 @@
+*Environment variable : The environment variables are dynamic values that are stored within a system and used by applications launched in shells or sub-shells. 
+                        
+                        e.g name ="Max" in the BASH shell. 
+
+* .bashrc               : The .bashrc file is a script file that’s executed when a user logs in. 
+                         The contents of .bashrc can be changed to define functions, command aliases, and customize the bash. 
+                         bashrc can be used to define functions that reduce redundant efforts. These functions can be a collection of basic commands. 
+                         These functions can even use arguments from the terminal.
+
+                         How?
+
+                         nano .bashrc
+                         {decalre a variable here or build a function which you need to use repeatedly}
+
