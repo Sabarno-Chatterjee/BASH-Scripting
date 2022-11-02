@@ -55,29 +55,7 @@
 
 * appropos          : appropos and type key words related to what you want to do. It will display relatable commands.
 
-*   ps              : 
 
-*   id              :
-
-*   hostname        :
-
-*   uname           :
-
-*   ifconfig        :
-
-*   ip              :
-
-*   netstat         :
-
-*   ss              :
-
-*   who             : 
-
-*   env             :
-
-*   lsblk           :
-
-*   lsusb           : 
 
 
 
