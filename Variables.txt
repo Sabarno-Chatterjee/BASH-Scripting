@@ -14,6 +14,7 @@
 
     {What this does is, it asks the user for the input and then creates a variable; name, to which it allocates the value entered by the user.}
 
+
 * Positional parameter (ARGUMENT)
 
     e.g:
@@ -26,4 +27,14 @@
 
     Run:
     ./<script_name> argument_1(name) argument_2(occupation)
+
+
+* How to use commands as arguments
+
+    e.g:
+
+    user=$(whoami)
+    or 
+    date=$(date)
+
 
