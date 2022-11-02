@@ -38,3 +38,6 @@
     date=$(date)
 
 
+* export : Set export attribute for shell variables. {In a way, make it global}
+
+
