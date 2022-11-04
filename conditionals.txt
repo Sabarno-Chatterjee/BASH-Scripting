@@ -1,1 +1,28 @@
-Conditionals or if statements.
+* Conditionals or if statements.
+    
+    syntax: 
+
+    if CONDITION
+    then
+        COMMANDS
+    fi
+    
+
+    eg:
+
+    echo -n "Enter Number: "
+    read x
+
+    if [ $((x%2)) == 0 ]; then
+    echo "Number is Even"
+    fi
+
+    echo "Enter a number"
+
+    read number
+
+    if [ $((number%2)) == 0 ]; then
+        echo "It's even"
+    else 
+        echo "It's odd"
+    fi
