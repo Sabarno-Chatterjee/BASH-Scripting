@@ -47,6 +47,8 @@
 
 *   rm              : stands for remove.
 
+*   rm -r <name of directory> : is used to remove directories.
+
 *   ctrl + c        : stops the command being run on BASH.
 
 * man <command_name>: to get help with a particular command, it launches the manual for it.
