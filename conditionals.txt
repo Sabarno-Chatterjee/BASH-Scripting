@@ -4,7 +4,9 @@
 
     if CONDITION
     then
-        COMMANDS
+    COMMANDS_1
+    else
+    COMMANDS_2
     fi
     
 
