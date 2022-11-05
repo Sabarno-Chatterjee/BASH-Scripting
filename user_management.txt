@@ -2,4 +2,19 @@
 
     adduser and addgroup add users and groups to the system according to command line options and configuration information in /etc/adduser.conf.
 
-    
+    e.g:
+
+    sudo adduser <user_name> 
+
+* cat /etc/passwd:
+
+    To view all the users.
+
+* passwd:
+
+    The passwd command changes passwords for user accounts. A normal user may only change the password for their own account, while the superuser may change the password for any
+    account.
+
+* usermod:
+
+    The usermod command modifies the system account files to reflect the changes that are specified on the command line.
