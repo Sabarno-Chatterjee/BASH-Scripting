@@ -15,6 +15,13 @@
     The passwd command changes passwords for user accounts. A normal user may only change the password for their own account, while the superuser may change the password for any
     account.
 
+    sudo passwd <user_name>
+    funny for loki
+
 * usermod:
 
     The usermod command modifies the system account files to reflect the changes that are specified on the command line.
+
+    e.g:
+
+    sudo usermod <user_name> -s /bin/bash {here we are changing the shell for the user using usermod}
