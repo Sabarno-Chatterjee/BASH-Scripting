@@ -25,3 +25,28 @@
     e.g:
 
     sudo usermod <user_name> -s /bin/bash {here we are changing the shell for the user using usermod}
+
+* sudo or super user do:
+
+     sudo allows a permitted user to execute a command as the superuser or another user, as specified by the security policy.  The invoking user's real (not effective) user-ID is used to
+     determine the user name with which to query the security policy.
+
+* su:
+
+      su allows commands to be run with a substitute user and group ID.
+
+      su - <user_name> {The user name you want to change to.}
+
+
+* visudo:
+
+     visudo edits the sudoers file in a safe fashion, analogous to vipw(8).  visudo locks the sudoers file against multiple simultaneous edits, performs basic validity checks, and checks
+     for syntax errors before installing the edited file.  If the sudoers file is currently being edited you will receive a message to try again later.
+
+* userdel:
+
+      userdel is a low level utility for removing users. On Debian, administrators should usually use deluser(8) instead.
+
+       The userdel command modifies the system account files, deleting all entries that refer to the user name LOGIN. The named user must exist.
+
+
