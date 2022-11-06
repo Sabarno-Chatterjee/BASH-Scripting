@@ -58,6 +58,13 @@
 * appropos          : appropos and type key words related to what you want to do. It will display relatable commands.
 
 
+* diff              : diff - compare files line by line
+
+                        e.g diff -y <agrgument_1> <argument_2> {Here, it will compare both the arguments and list the differences side by side.}
+
+
+* history           : Many  programs read input from the user a line at a time.  The GNU History library is able to keep track of those lines, associate arbitrary data with each line, and utilize 
+                        information from previous lines in composing new ones.
 
 
 

@@ -12,3 +12,8 @@
                          nano .bashrc
                          {decalre a variable here or build a function which you need to use repeatedly}
 
+* Using long options vs short options:
+
+    1) The documentation for 'diff' tells us that that we can use --side-by-side in place of -y.The only real advantage of long options is that they usually are more descriptive, which makes them easier to remember and, and it makes it easy to guess what they do.
+    2) The second reason is particularly useful when we consider that we can create scripts with commands,so when we revisit an old script, it will be much easier to read a descriptive option than a cryptic single letter option in a command we rarely use.
+    
