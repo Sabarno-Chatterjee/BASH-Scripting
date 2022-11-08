@@ -1,0 +1,11 @@
+* Range-based for loop:
+
+    We can use range-based for loops. In this type of loop, we can specify the number to start, to stop, and to increment at every iteration(optional) in the statement. 
+
+    eg:
+
+    for num in {1..5};
+    do 
+        echo $num
+    done
+    
