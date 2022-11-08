@@ -8,4 +8,16 @@
     do 
         echo $num
     done
+
+
+    --> Skipping numbers using for loops:
+
+        eg: 
+
+        for num in {1..100..2};
+        do
+            echo $num
+        done
+
+        {The above piece of code will print all the odd numbers from 1-99, by skipping one digit}
     
