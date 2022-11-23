@@ -67,4 +67,7 @@
                         information from previous lines in composing new ones.
 
 
+* mv                : Can be used to rename a file. Eg: mv index.html web_page.html
+                      or to move files from one directory to a different directory. 
+
 
